@@ -1,11 +1,14 @@
 <p align="center">
-     ![💻  Android Developer | Kotlin | HTML | CSS   💻](https://https://insights.dice.com/wp-content/uploads/2019/08/shutterstock_1137339098.jpg)
-     
-   - ## Hi there 👋, my name is Ndiuwem Ekong, but I prefer nd👋
-     ###### 💻  Android Developer | Kotlin | HTML | CSS   💻
-     [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='twitter' height='40'>](https://twitter.com/nd_ekong) [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ndiuwem-ekong-17bb59157) [<img src='https://www.vectorlogo.zone/logos/gmail/gmail-ar21.png' alt='gmail' height='40'>](https://ndiuwembassey@gmail.com)  
+    <img src='https://www.contentchef.io/images/developers/headless-cms-for-android/top-banner-image.svg' height='400'>
+</p>
 
-     </p>
+- ## Hi there 👋, my name is Ndiuwem Ekong, but I prefer nd👋
+#### 💻  Android Developer | Kotlin | HTML | CSS   💻
+     
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='twitter' height='40'>](https://twitter.com/nd_ekong) [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ndiuwem-ekong-17bb59157) [<img src='https://www.vectorlogo.zone/logos/gmail/gmail-ar21.png' alt='gmail' height='40'>](https://ndiuwembassey@gmail.com)
+
+
+    
      
  
 ## 👨🏽‍💻 ABOUT ME
