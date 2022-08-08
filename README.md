@@ -1,4 +1,7 @@
-### <center> Hi there 👋 </center>
+<p align="center">
+     Hi there 👋
+</p>
+
 
 <!--
 **ndekong/ndekong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
